@@ -1,1 +1,1 @@
-# Normalized-Difference-Fraction-Index-NDFI-
+# Normalized-Difference-Fraction-Index（NDFI）
